@@ -2,7 +2,7 @@
 
  I've used scaled-YOLOv4 (yolov4-csp) for building this Object detector, the fastest and most accurate object detector there currently is.
  
- <img src="yolo_image.jpg" width="300" height="400" >
+ <img src="yolo_image.jpg" width="350" height="400" >
  
  
 
