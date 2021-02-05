@@ -2,5 +2,7 @@
 
  I've used scaled-YOLOv4 (yolov4-csp) for building this Object detector, the fastest and most accurate object detector there currently is.
  
+ ![](image yolo_image)
+ 
  
 
